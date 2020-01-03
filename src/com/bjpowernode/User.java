@@ -12,4 +12,6 @@ public class User {
     private String aaa;
     private String bbb;
     private String ccc;
+    private String eee;
+    private String fff;
 }
